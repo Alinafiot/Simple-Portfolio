@@ -153,6 +153,7 @@ p{
 }
 
 .social-icons a{
+    color: #b74b4b; 
     display: inline-flex;
     justify-content: center;
     align-items: center;
